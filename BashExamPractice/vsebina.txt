@@ -1,0 +1,13 @@
+total 40K
+-rw------- 1 ubuntu ubuntu    0 Feb  8 12:55 
+drwxrwxr-x 5 ubuntu ubuntu 4.0K Feb  8 14:10 .
+drwxr-xr-x 9 ubuntu ubuntu 4.0K Feb  8 10:51 ..
+-rwxr-xr-x 1 ubuntu ubuntu  498 Feb  7 18:38 BashPractice1.sh
+-rwxrwxrwx 1 ubuntu ubuntu  402 Feb  8 12:11 BashPractice2.sh
+-rwxr-xr-x 1 ubuntu ubuntu  495 Feb  8 13:01 BashPractice3.sh
+-rwxr-xr-x 1 ubuntu ubuntu  368 Feb  8 14:10 BashPractice4.sh
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Feb  8 12:56 fdgdg-fdgf
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Feb  8 12:49 fjdjsa--ds
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Feb  8 12:55 hhfd-
+-rw-rw-r-- 1 ubuntu ubuntu  503 Feb  8 12:55 testFile.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 Feb  8 14:10 vsebina.txt
